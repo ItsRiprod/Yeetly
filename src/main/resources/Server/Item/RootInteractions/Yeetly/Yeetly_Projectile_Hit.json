@@ -1,0 +1,35 @@
+{
+  "Cooldown": {
+    "Cooldown": 0
+  },
+  "Interactions": [
+    {
+      "Type": "DamageEntity",
+      "DamageCalculator": {
+        "BaseDamage": {
+          "Physical": 25
+        }
+      },
+      "DamageEffects": {
+        "Knockback": {
+          "Type": "Point",
+          "VelocityConfig": {
+            "AirResistance": 0.97,
+            "AirResistanceMax": 0.96,
+            "GroundResistance": 0.94,
+            "GroundResistanceMax": 0.3,
+            "Threshold": 3.0,
+            "Style": "Exp"
+          },
+          "Force": 85,
+          "VelocityType": "Add"
+        }
+      }
+    },
+    "Yeetly_Land",
+    {
+      "Type": "RemoveEntity",
+      "Entity": "User"
+    }
+  ]
+}

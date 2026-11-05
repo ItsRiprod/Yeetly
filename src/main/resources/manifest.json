@@ -1,0 +1,25 @@
+{
+    "Group": "Riprod",
+    "Name": "Yeetly",
+    "Version": "0.1.0",
+    "Description": "Crouch-use any modeled block to pick it up, then throw it.",
+    "Authors": [
+        {
+            "Name": "Riprod"
+        }
+    ],
+    "Website": "https://github.com/itsriprod/yeetly",
+    "ServerVersion": "^0.7.0",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "IncludesAssetPack": true,
+    "Main": "com.riprod.yeetly.YeetlyPlugin",
+    "UpdateChecker": {
+        "CurseForge": ""
+    }
+}

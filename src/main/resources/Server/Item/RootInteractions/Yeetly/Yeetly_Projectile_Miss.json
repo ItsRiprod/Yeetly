@@ -1,0 +1,12 @@
+{
+  "Cooldown": {
+    "Cooldown": 0
+  },
+  "Interactions": [
+    "Yeetly_Land",
+    {
+      "Type": "RemoveEntity",
+      "Entity": "User"
+    }
+  ]
+}

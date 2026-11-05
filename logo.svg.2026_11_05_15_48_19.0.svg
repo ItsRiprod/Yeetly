@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="src/main/resources/icon-256.png"
+   inkscape:export-xdpi="136.53"
+   inkscape:export-ydpi="136.53"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:export-bgcolor="#000000fd"
+     inkscape:zoom="3.3116168"
+     inkscape:cx="86.513633"
+     inkscape:cy="89.231339"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,5.3902215,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.883833,0,1 @ F,0,0,1,0,4.8611167,0,1 @ F,0,0,1,0,5.3831986,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135.077px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#5e5e5e;fill-opacity:1;stroke:#5e5e5e;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="-255.73567"
+       y="103.45924"
+       id="text2-3"
+       transform="matrix(0,-0.73141745,1.3672083,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2-6"
+         x="-255.73567"
+         y="103.45924"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135.077px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e5e5e;fill-opacity:1;stroke:#5e5e5e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1">{</tspan></text>
+    <rect
+       style="fill:none;stroke:#5e5e5e;stroke-width:10.1408;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="158.9837"
+       height="109.2347"
+       x="10.660611"
+       y="8.7575893"
+       ry="15.200946" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:7.24603;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1-3"
+       width="97.84639"
+       height="90.619926"
+       x="73.932999"
+       y="-31.238981"
+       ry="12.610543"
+       transform="rotate(26.165106)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.24252;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1-3-1"
+       width="4.8046212"
+       height="54.264496"
+       x="25.334702"
+       y="110.43047"
+       ry="7.5513706" />
+    <text
+       xml:space="preserve"
+       style="font-size:50.7909px;font-family:Lexend;-inkscape-font-specification:'Lexend, Normal';writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#ffffff;stroke-width:2.40864"
+       x="94.935951"
+       y="55.222736"
+       id="text1"
+       transform="rotate(12.665604)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="94.935951"
+         y="55.222736"
+         style="stroke-width:2.40864">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:98.7978px;font-family:'Noto Sans Adlam';-inkscape-font-specification:'Noto Sans Adlam, Normal';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#ffffff;stroke-width:4.64"
+       x="115.35151"
+       y="149.47382"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2" /></text>
+  </g>
+</svg>
