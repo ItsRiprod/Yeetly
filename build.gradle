@@ -74,7 +74,7 @@ hytalePublisher {
     gameVersion   = project.hytale_version.toString()
 
     modtale {
-        enabled   = true
+        enabled   = false
         projectId = project.modtale_uuid
         patchline = 'release'
     }
@@ -86,7 +86,7 @@ hytalePublisher {
     }
 
     modifold {
-        enabled   = false
+        enabled   = true
         projectId = project.mod_id
         embedded "patchly"
     }
