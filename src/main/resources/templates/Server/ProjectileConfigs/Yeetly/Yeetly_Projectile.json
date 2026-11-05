@@ -9,7 +9,7 @@
     "RotationMode": "VelocityDamped",
     "SticksVertically": true
   },
-  "LaunchForce": 45,
+  "LaunchForce": 50,
   "SpawnOffset": {
     "X": 0.2,
     "Y": 0.2,
