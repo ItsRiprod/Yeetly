@@ -87,7 +87,7 @@ hytalePublisher {
 
     modifold {
         enabled   = true
-        projectId = project.mod_id
+        projectId = project.modifold_id
         embedded "patchly"
     }
 }
